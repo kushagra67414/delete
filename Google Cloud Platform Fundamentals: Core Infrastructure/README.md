@@ -27,4 +27,19 @@ Because Google has seven services with more than a billion users, you can bet se
 ![Screenshot (1097)](https://user-images.githubusercontent.com/46487696/104849599-8a535d00-5910-11eb-9b86-d96addab2a1c.png)
 
 
+## Identity and Access Management (IAM)
+
+IAM lets administrators authorize who can take action on specific resources. An IAM policy has a "who" part, a "can do what" part, and an "on which resource" part. The "who" part names the user or users you're talking about. The "who" part of an IAM policy can be defined either by a Google account, a Google group, a Service account, an entire G Suite, or a Cloud Identity domain. The "can do what" part is defined by an IAM role. An IAM role is a collection of permissions. Most of the time, to do any meaningful operations, you need more than one permission. For example, to manage instances in a project, you need to create, delete, start, stop, and change an instance. So the permissions are grouped together into a role that makes them easier to manage.
+
+![Screenshot (1126)](https://user-images.githubusercontent.com/46487696/105208909-3befc980-5b6f-11eb-8398-9bf33d9f2372.png)
+![Screenshot (1127)](https://user-images.githubusercontent.com/46487696/105208914-3e522380-5b6f-11eb-8f49-27fea89cd04a.png)
+
+## c
+![Screenshot (1128)](https://user-images.githubusercontent.com/46487696/105209846-4eb6ce00-5b70-11eb-9d0b-1565f5c2cb4c.png)
+
+![Screenshot (1129)](https://user-images.githubusercontent.com/46487696/105209853-50809180-5b70-11eb-9e62-d70d66d587af.png)
+
+![Screenshot (1131)](https://user-images.githubusercontent.com/46487696/105209855-51b1be80-5b70-11eb-80b9-65df5005241f.png)
+
+![Screenshot (1130)](https://user-images.githubusercontent.com/46487696/105209854-51192800-5b70-11eb-95d3-ba0885ab66c9.png)
 
